@@ -1,0 +1,6 @@
+feedparser
+beautifulsoup4
+requests
+pillow
+flask
+mistralai
